@@ -1,0 +1,8 @@
+section,in_resume,title,loc,institution,start,end,description_1,description_2,description_3
+education,TRUE,"M.D. Candidate, Clinical Medicine",Changsha,Central South University,2014,2022,Working on neuro-oncology,NA,NA
+research_positions,TRUE,Research Assistant,Jiye Yin's Laboratory,Xiangya Hospital,2015,2017,Pharmacogenomics of non-small cell lung cancer,NA,NA
+research_positions,TRUE,Research Assistant,Ricard Li's Laboratory,Xiangya Hospital,2017,2020,Analyzed large genomic profiling datasets and image data,NA,NA
+by_me_press,TRUE,Multi-dimensional omics characterization in glioblastoma identifies the purity-associated pattern and prognostic gene signatures,Cancer Cell International,N/A,2020,2020,"Authored with Yi Xiong, Zujian Xiong, Hang Cao, Chang Li, Siyi Wanggou, Xuejun Li ",NA,NA
+by_me_press,TRUE,Nomogram-Predicted Survival of Breast Cancer Brain Metastasis: a SEER-Based Population Study,World Neurosurgery,N/A,2019,2019,"Authored with Yi Xiong, Hang Cao, Yueqi Zhang, Zou Pan, Siyuan Dong, Gousiyi Wang, Feiyifan Wang, Xuejun Li",NA,NA
+by_me_press,TRUE,Phytochemical-Mediated Glioma Targeted Treatment: Drug Resistance and Novel Delivery Systems ,Current Medical Chemistry,N/A,2019,2019,"Authored with Cao H, Li X, Wang F, Zhang Y, Xiong Y, Yang Q",NA,NA
+by_me_press,TRUE,Pharmacogenomics of platinum-based chemotherapy in non-small cell lung cancer: focusing on DNA repair systems,Medical Oncology,N/A,2017,2017,"Authored with Xiong Y, Huang BY, Yin JY",NA,NA
